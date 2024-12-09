@@ -1,9 +1,8 @@
-import { Button } from '@/components/ui/button'
+
 import { PhoneIcon as WhatsApp, Mail } from 'lucide-react'
 
 export function Hero() {
-  const phoneNumber = "9834806273" // Updated WhatsApp number
-  const email = "amitsonawane2005@gmail.com" // Updated email address
+  
 
   return (
     <section className="bg-blue-600 text-white py-20">
