@@ -23,7 +23,7 @@ export default function ContactPage() {
               </div>
               <div className="flex items-center">
                 <MapPin className="w-6 h-6 mr-2 text-blue-600" />
-                <span>Siddharam Tours & Travels,Yashoda Nagar, Satara, Maharashta, India</span>
+                <span>Siddharam Tours & Travels,Yashoda Nagar, Satara, Maharashta, India Pin: 415002</span>
               </div>
             </div>
           </div>
