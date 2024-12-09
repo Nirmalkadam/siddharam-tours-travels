@@ -19,7 +19,7 @@ const owners = [
   {
     name: "AMIT SONAWANE",
     role: "COO-Owner",
-    image: "/Amit.png", 
+    image: "/workspaces/siddharam-tours-travels/siddharam-tours-travels/app/img/Amit.png", 
     description: "With over 1 year of experience in the travel industry, AMIT SONAWANE our team with passion and innovation.",
     phone: "+91 9834806273"
   }
