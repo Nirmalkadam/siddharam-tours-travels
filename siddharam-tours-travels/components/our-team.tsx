@@ -5,21 +5,21 @@ const owners = [
   {
     name: "BALKRISHNA SONAWANE",
     role: "Owner",
-    image: "https://raw.githubusercontent.com/Nirmalkadam/siddharam-tours-travels/refs/heads/main/siddharam-tours-travels/app/img/slazzer-edit-image%20(1).png",
+    image: "https://raw.githubusercontent.com/Nirmalkadam/siddharam-tours-travels/refs/heads/main/siddharam-tours-travels/app/img/slazzer-edit-image__1_-removebg-preview.png",
     description: "With over 15 years of experience in the travel industry, BALKRISHNA SONAWANE our team with passion and innovation.",
     phone: "+91 9765504197"
   },
   {
     name: "AKASH SONAWANE",
     role: "COO-Owner",
-    image: "https://raw.githubusercontent.com/Nirmalkadam/siddharam-tours-travels/refs/heads/main/siddharam-tours-travels/app/img/slazzer-edit-image.png", 
+    image: "https://raw.githubusercontent.com/Nirmalkadam/siddharam-tours-travels/refs/heads/main/siddharam-tours-travels/app/img/IMG_20241210_100203-removebg-preview.png", 
     description: "With over 4 years of experience in the travel industry, AKASH SONAWANE our team with passion and innovation.",
     phone: "+91 9356325142"
   },
   {
     name: "AMIT SONAWANE",
     role: "COO-Owner",
-    image: "https://raw.githubusercontent.com/Nirmalkadam/siddharam-tours-travels/refs/heads/main/siddharam-tours-travels/app/img/Amit.png", 
+    image: "https://raw.githubusercontent.com/Nirmalkadam/siddharam-tours-travels/refs/heads/main/siddharam-tours-travels/app/img/Amit-removebg-preview.png", 
     description: "With over 1 year of experience in the travel industry, AMIT SONAWANE our team with passion and innovation.",
     phone: "+91 9834806273"
   }
