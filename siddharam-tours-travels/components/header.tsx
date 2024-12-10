@@ -14,6 +14,7 @@ export function Header() {
             <li><Link href="/" className="text-gray-600 hover:text-blue-600">Home</Link></li>
             <li><Link href="/cars" className="text-gray-600 hover:text-blue-600">Cars</Link></li>
             <li><Link href="/services" className="text-gray-600 hover:text-blue-600">Services</Link></li>
+            <li><Link href="/gallery" className="text-gray-600 hover:text-blue-600">Gallery</Link></li>
             <li><Link href="/contact" className="text-gray-600 hover:text-blue-600">Contact</Link></li>
           </ul>
         </nav>
